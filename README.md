@@ -47,7 +47,7 @@ Host github.com
 git pull -u origin main
 
 # 推送你的代码到GitHub
-git push -u origin main
+git push origin main
 
 # 在github添加本地计算机公钥
 cd ~
