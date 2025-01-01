@@ -15,5 +15,8 @@ git commit -m "Initial commit"
 # 将本地仓库关联到GitHub仓库
 git remote add origin https://github.com/username/new-repository.git
  
+# 拉回仓库
+git pull -u origin main
+
 # 推送你的代码到GitHub
 git push -u origin main
