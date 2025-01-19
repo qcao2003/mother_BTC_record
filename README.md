@@ -44,10 +44,10 @@ Host github.com
   Port 443
 
 # 拉回仓库
-git pull -u origin main
+git pull origin main
 
 # 推送你的代码到GitHub
-git push origin main
+git push -u origin main
 
 # 在github添加本地计算机公钥
 cd ~
